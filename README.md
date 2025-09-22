@@ -6,7 +6,7 @@
 - 🐟 At the University of Oregon, I developed bioinformatic pipelines for the comparative genomic analysis of novel predatory bacteria isolated from the substrate environment of zebrafish, three-spine stickleback, and worms.
 - 🌎 I also developed a pipeline for gene-centric analysis of microbial metagenomes collected through the National Ecological Observatory Network (NEON) in an effort to link microbial metabolism with biogeochemical cycling in streams across continental North America.
 - 🖥 I'm passionate about open science and data reproducibility. I served as an ambassador for the National Microbiome Data Collaborative and love sharing my expertise in data analysis through collaborations and trainings.
-- 📫 You can reach me at beccaluciamaher@gmail.com
+- 📫 You can reach me at bmaher3@uw.edu
 <!--
 **maherrl/maherrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
