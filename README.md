@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there! I'm @maherrl 👋
 
+- 🦠 I'm a computational biologist and field ecologist working at the intersections of climate change, disease, and host-associated microbiomes.
+- 🌱 Currently, I manage the new Marine Genomics Center at the University of Washington's Friday Harbor Laboratories where I investigate the role of the microbiome and temperature in eelgrass wasting disease.
+- 🌊 I started my career in coral reef ecology studying how the coral microbiome responds to local and global stressors including rising seawater temperatures and nutrient pollution. Through this work, I obtained a PhD in Microbiology at Oregon State University and developed bioinformatic pipelines for the analysis of amplicon sequencing data.
+- 🐟 At the University of Oregon, I developed bioinformatic pipelines for the comparative genomic analysis of novel predatory bacteria isolated from the substrate environment of zebrafish, three-spine stickleback, and worms.
+- 🌎 I also developed a pipeline for gene-centric analysis of microbial metagenomes collected through the National Ecological Observatory Network (NEON) in an effort to link microbial metabolism with biogeochemical cycling in streams across continental North America.
+- 🖥 I'm passionate about open science and data reproducibility. I served as an ambassador for the National Microbiome Data Collaborative and love sharing my expertise in data analysis through collaborations and trainings.
+- 📫 You can reach me at beccaluciamaher@gmail.com
 <!--
 **maherrl/maherrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
