@@ -1,12 +1,11 @@
 ## Hi there! I'm @maherrl 👋
 
-- 🦠 I'm a computational biologist and field ecologist working at the intersections of climate change, disease, and host-associated microbiomes.
-- 🌱 Currently, I manage the new Marine Genomics Center at the University of Washington's Friday Harbor Laboratories where I investigate the role of the microbiome and temperature in eelgrass wasting disease.
+- 🦠 I'm a Metagenomics Specialist in the Bioinformatics and Computational BioSciences at the National Institute of Allergy and Infectious Diseases at the NIH.
 - 🌊 I started my career in coral reef ecology studying how the coral microbiome responds to local and global stressors including rising seawater temperatures and nutrient pollution. Through this work, I obtained a PhD in Microbiology at Oregon State University and developed bioinformatic pipelines for the analysis of amplicon sequencing data.
-- 🐟 At the University of Oregon, I developed bioinformatic pipelines for the comparative genomic analysis of novel predatory bacteria isolated from the substrate environment of zebrafish, three-spine stickleback, and worms.
-- 🌎 I also developed a pipeline for gene-centric analysis of microbial metagenomes collected through the National Ecological Observatory Network (NEON) in an effort to link microbial metabolism with biogeochemical cycling in streams across continental North America.
+- 🌱 At the University of Washington's Friday Harbor Laboratories, I managed and helped establish the new Marine Genomics Center. At FHL, I also investigated the role of the microbiome and pathogen strain diversity in Eelgrass Wasting Disease.
+- - 🐟 At the University of Oregon, I developed bioinformatic pipelines for the comparative genomic analysis of novel predatory bacteria isolated from the substrate environment of zebrafish, three-spine stickleback, and worms.
 - 🖥 I'm passionate about open science and data reproducibility. I served as an ambassador for the National Microbiome Data Collaborative and love sharing my expertise in data analysis through collaborations and trainings.
-- 📫 You can reach me at bmaher3@uw.edu
+- 📫 You can reach me at rebecca.maher@nih.gov
 - 🔭 You can follow my research on Google Scholar (https://scholar.google.com/citations?user=JqUJyQgAAAAJ&hl=en).
 <!--
 **maherrl/maherrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
