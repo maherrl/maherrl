@@ -3,7 +3,7 @@
 - 🦠 I'm a Metagenomics Specialist in the Bioinformatics and Computational BioSciences Branch at the National Institute of Allergy and Infectious Diseases at the NIH.
 - 🌊 I started my career in coral reef ecology studying how the coral microbiome responds to local and global stressors including rising seawater temperatures and nutrient pollution. Through this work, I obtained a PhD in Microbiology at Oregon State University and developed bioinformatic pipelines for the analysis of amplicon sequencing data.
 - 🌱 At the University of Washington's Friday Harbor Laboratories, I managed and helped establish the new Marine Genomics Center. At FHL, I also investigated the role of the microbiome and pathogen strain diversity in Eelgrass Wasting Disease.
-   🐟 At the University of Oregon, I developed bioinformatic pipelines for the comparative genomic analysis of novel predatory bacteria isolated from the substrate environment of zebrafish, three-spine stickleback, and worms.
+- 🐟 At the University of Oregon, I developed bioinformatic pipelines for the comparative genomic analysis of novel predatory bacteria isolated from the substrate environment of zebrafish, three-spine stickleback, and worms.
 - 🖥 I'm passionate about open science and data reproducibility. I served as an ambassador for the National Microbiome Data Collaborative and love sharing my expertise in data analysis through collaborations and trainings.
 - 📫 You can reach me at rebecca.maher@nih.gov
 - 🔭 You can follow my research on Google Scholar (https://scholar.google.com/citations?user=JqUJyQgAAAAJ&hl=en).
